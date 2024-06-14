@@ -1,0 +1,48 @@
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\ApacheLogs.exe.config
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\ApacheLogs.exe
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\ApacheLogs.pdb
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\obj\Debug\ApacheLogs.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\obj\Debug\ApacheLogs.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\obj\Debug\ApacheLogs.exe
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\obj\Debug\ApacheLogs.pdb
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\EntityFramework.dll
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\System.Data.SQLite.dll
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\EntityFramework.xml
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\bin\Debug\System.Data.SQLite.xml
+C:\Users\anton\Desktop\Полезные файлы\Проекты\ApacheLogs\obj\Debug\ApacheLogs.csproj.Up2Date
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\ApacheLogs.exe.config
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\ApacheLogs.exe
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\ApacheLogs.pdb
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\EntityFramework.dll
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\System.Data.SQLite.dll
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\EntityFramework.xml
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\bin\Debug\System.Data.SQLite.xml
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\obj\Debug\ApacheLogs.csproj.AssemblyReference.cache
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\obj\Debug\ApacheLogs.csproj.CoreCompileInputs.cache
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\obj\Debug\ApacheLogs.csproj.CopyComplete
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\obj\Debug\ApacheLogs.exe
+C:\Users\anton\Рабочий стол\Новая папка\ApacheLogs\obj\Debug\ApacheLogs.pdb
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\ApacheLogs.exe.config
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\ApacheLogs.exe
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\ApacheLogs.pdb
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\EntityFramework.dll
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\System.Data.SQLite.dll
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\EntityFramework.xml
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zapev\Source\Repos\ApacheLogs\bin\Debug\System.Data.SQLite.xml
+C:\Users\zapev\Source\Repos\ApacheLogs\obj\Debug\ApacheLogs.csproj.AssemblyReference.cache
+C:\Users\zapev\Source\Repos\ApacheLogs\obj\Debug\ApacheLogs.csproj.CoreCompileInputs.cache
+C:\Users\zapev\Source\Repos\ApacheLogs\obj\Debug\ApacheLogs.csproj.CopyComplete
+C:\Users\zapev\Source\Repos\ApacheLogs\obj\Debug\ApacheLogs.exe
+C:\Users\zapev\Source\Repos\ApacheLogs\obj\Debug\ApacheLogs.pdb
