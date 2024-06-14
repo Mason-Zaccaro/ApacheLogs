@@ -59,11 +59,13 @@ bin/Debug/config.txt:
 
 >getlog
 
->getlog 200
+>getlog 13.11.2020
+
+>getlog 13.11.2020 17.03.2023
 
 >getlog 127.0.0.1
 
->getlog 172.16.0.1 13.11.2020 17.03.2023
+>getlog 201
 
 >getlog 172.16.0.1 13.11.2020 17.03.2023 200
 
